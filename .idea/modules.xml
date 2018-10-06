@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://L:/001AngularOhjelmat/001Angular/.idea/001Angular.iml" filepath="L:/001AngularOhjelmat/001Angular/.idea/001Angular.iml" />
+      <module fileurl="file://L:/005Prototyypit/002Kalorilaskuri/.idea/002Kalorilaskuri.iml" filepath="L:/005Prototyypit/002Kalorilaskuri/.idea/002Kalorilaskuri.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curriculum.iml" filepath="$PROJECT_DIR$/.idea/Curriculum.iml" />
     </modules>
   </component>
