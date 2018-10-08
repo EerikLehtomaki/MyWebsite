@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="./images/favicon.ico">
 
     <title>Eerik Lehtomäki, Ohjelmistokehittäjä</title>
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/">
@@ -19,6 +19,8 @@
 
     <!-- Icons for this template -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <script src="./js/custom.js"></script>
 </head>
 
 <body>
@@ -27,14 +29,19 @@
 <div class="container">
 
 
-    <div class="py-4 heading text-center">
+    <div class="mt-3 py-4 heading text-center bgimg rounded-top">
         <!-- Heading -->
-        <img class="d-block mx-auto mb-4" src="./images/me.jpg" alt="" width="150" height="150">
-        <h1>Lehtomäki Eerik</h1>
-        <h3>Ohjelmistokehittäjä</h3>
-        <p>Jyväskylän Yliopistosta vuoden 2019 alussa valmistuva filosofian maisteri.</p>
+        <img class="d-block mx-auto mb-4 rounded" src="./images/me.jpg" alt="" width="150" height="150">
+        <h1>Eerik Lehtomäki</h1>
+        <h2>Ohjelmistokehittäjä</h2>
+        <p class="font-weight-bold">Jyväskylän Yliopistosta 2019 valmistuva filosofian maisteri<br>Informaatioteknologian tiedekunta</p>
+        <div align="center">
+        <div id="myDIV" style="display: none;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/E6EQBwZktIk?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        </div>
+        <button class="btn btn-secondary mt-1" id="showbutton" onclick="myFunction()">Click to make a stand!</button>
     </div>
-
     <div class="album py-4 px-4 bg-light">
         <!-- Heading -->
 
@@ -50,12 +57,12 @@
             <div class="col-lg-6">
                 <h4>Koulutus</h4>
 
-                <h6>Filosofian maisteri, Jyväskylän yliopisto</h6>
+                <h6>Filosofian maisteri, Jyväskylän yliopisto, 2019</h6>
                 <p>Gradutyössäni tutkin luonnollista kieltä käsittelevien NLP teknologioiden suorituskykyä suomen
                     kielellä.</p>
 
-                <h6>Luonnontieteiden kandidaatti, Jyväskylän yliopisto</h6>
-                <p>Kandityössäni tutkin, miten pelien psykologiset tekijät ilmenevät pelillistämisessä.</p>
+                <h6>Luonnontieteiden kandidaatti, Jyväskylän yliopisto, 2017</h6>
+                <p>Kandityössäni tutkin pelien psykologisten tekijöiden ilmenemistä pelillistämisessä.</p>
 
             </div>
         </div>
@@ -144,6 +151,27 @@
                         <img class="card-img-top"
                              data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
                              alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
+                             src="./images/stressitesti.png" data-holder-rendered="true">
+                    </a>
+                    <div class="card-body">
+                        <a href="https://stressiapp.eu-gb.mybluemix.net/" target="_blank">stressiapp.eu-gb.mybluemix.net/</a><br>
+                        <a href="https://stressiapp.eu-gb.mybluemix.net/pomo.html" target="_blank">stressiapp.eu-gb.mybluemix.net/pomo.html</a>
+                        <p class="card-text"></p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="panel-body">
+                                <p>React, IBM Cloud</p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 box-shadow">
+                    <a href="https://soaptesteeriklehtomaki.azurewebsites.net/" target="_blank">
+                        <img class="card-img-top"
+                             data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
+                             alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
                              src="./images/LiikuntaLissu.png" data-holder-rendered="true">
                     </a>
                     <div class="card-body">
@@ -160,6 +188,60 @@
             </div>
             <div class="col-md-6">
                 <div class="card mb-4 box-shadow">
+                    <a href="http://www.leaf-fpv.com/" target="_blank">
+                        <img class="card-img-top"
+                             data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
+                             alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
+                             src="./images/leaf-fpv.png" data-holder-rendered="true">
+                    </a>
+                    <div class="card-body">
+                        <a href="http://www.leaf-fpv.com/" target="_blank">www.leaf-fpv.com/</a>
+                        <p class="card-text"></p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="panel-body">
+                                <p>PHP</p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 box-shadow">
+                    <iframe width="auto" height="270" src="https://www.youtube.com/embed/Dsl9texo6_w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <div class="card-body">
+                        <a href="https://youtu.be/Dsl9texo6_w" target="_blank">
+                            Lievestuoreen Motocross-rata
+                        </a>
+                        <p class="card-text"></p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="panel-body">
+                                <p>Adobe Premier Pro, Hero 5, Ummagawd Remix</p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 box-shadow">
+                    <iframe width="auto" height="270" src="https://www.youtube.com/embed/8JCpvGoztx8?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    <div class="card-body">
+                        <a href="https://youtu.be/8JCpvGoztx8" target="_blank">
+                            KARTING SM 2018 Lappeenranta
+                        </a>
+                        <p class="card-text"></p>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <div class="panel-body">
+                                <p>Sony Vegas Pro, Hero 5, Ummagawd Remix</p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card mb-4 box-shadow">
                     <a href="https://soaptesteeriklehtomaki.azurewebsites.net/" target="_blank">
                         <img class="card-img-top"
                              data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
@@ -167,7 +249,8 @@
                              src="./images/soap-test.png" data-holder-rendered="true">
                     </a>
                     <div class="card-body">
-                        <p class="card-text">https://soaptesteeriklehtomaki.azurewebsites.net/</p>
+                        <a href="https://soaptesteeriklehtomaki.azurewebsites.net/" target="_blank">soaptesteeriklehtomaki.azurewebsites.net/</a>
+                        <p class="card-text"></p>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="panel-body">
                                 <p>PHP, SOAP</p>
@@ -179,37 +262,19 @@
             </div>
             <div class="col-md-6">
                 <div class="card mb-4 box-shadow">
-                    <img class="card-img-top"
-                         data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
-                         alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
-                         src="//placehold.it/480x270/444/F8F8F8" data-holder-rendered="true">
+                    <a href="images/sai.jpg" target="_blank">
+                        <img class="card-img-top"
+                             data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
+                             alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
+                             src="./images/sai_small.jpg" data-holder-rendered="true">
+                    </a>
                     <div class="card-body">
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.</p>
+                        <a href="images/sai.jpg" target="_blank">Image</a>
+                        <p class="card-text"></p>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="panel-body">
-                                <p>Renovations</p>
+                                <p>SAI, Photoshop, Pen table</p>
                                 <p></p>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="card mb-4 box-shadow">
-                    <img class="card-img-top"
-                         data-src="holder.js/100px270?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
-                         alt="Thumbnail [100%x225]" style="height: auto; width: 100%; display: block;"
-                         src="//placehold.it/480x270/444/F8F8F8" data-holder-rendered="true">
-                    <div class="card-body">
-                        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                            additional content. This content is a little bit longer.</p>
-                        <div class="d-flex justify-content-between align-items-center">
-                            <div class="panel-body">
-                                <p>Renovations</p>
-                                <p></p>
-
                             </div>
                         </div>
                     </div>
@@ -220,7 +285,7 @@
     </div>
 
 
-    <footer class="footer">
+    <footer class="footer pt-2">
         <p>&copy; Eerik Lehtomäki</p>
     </footer>
 

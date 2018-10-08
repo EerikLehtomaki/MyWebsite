@@ -3,3 +3,11 @@
     padding-bottom: 2px;
 }
 
+.bgimg {
+    background-image: url('../images/graffit.jpg');
+    background-color: #cccccc;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

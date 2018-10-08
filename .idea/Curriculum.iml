@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="002Kalorilaskuri" />
     <orderEntry type="module" module-name="001Angular" />
+    <orderEntry type="module" module-name="005Pomo" />
+    <orderEntry type="module" module-name="stressitesti" />
   </component>
 </module>
