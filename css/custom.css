@@ -3,6 +3,10 @@
     padding-bottom: 2px;
 }
 
+.myDIV {
+    align: center;
+}
+
 .bgimg {
     background-image: url('../images/graffit.jpg');
     background-color: #cccccc;
