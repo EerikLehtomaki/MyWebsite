@@ -5,10 +5,6 @@
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package-lock.json" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package-lock.json" afterDir="false" />
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package.json" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package.json" afterDir="false" />
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/public/javascripts/stressi.js" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/public/javascripts/stressi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Curriculum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curriculum.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -54,8 +50,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+            <state relative-caret-position="273">
+              <caret line="264" column="42" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -66,8 +62,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="493">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -127,6 +123,7 @@
       <find>hoe</find>
       <find>bcry</find>
       <find>col-md-4</find>
+      <find>php</find>
     </findStrings>
     <dirStrings>
       <dir>L:\006PHPStorm\Curriculum\images</dir>
@@ -269,12 +266,12 @@
       <workItem from="1538806970650" duration="6736000" />
       <workItem from="1538853690441" duration="14723000" />
       <workItem from="1538981214410" duration="8924000" />
-      <workItem from="1538993265490" duration="17524000" />
+      <workItem from="1538993265490" duration="20257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60522000" />
+    <option name="totallyTimeSpent" value="63255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -521,15 +518,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="493">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        <state relative-caret-position="273">
+          <caret line="264" column="42" selection-start-line="264" selection-start-column="42" selection-end-line="264" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
