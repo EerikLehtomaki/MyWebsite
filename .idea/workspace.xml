@@ -5,6 +5,7 @@
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package-lock.json" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package-lock.json" afterDir="false" />
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package.json" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package.json" afterDir="false" />
       <change beforePath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/public/javascripts/stressi.js" beforeDir="false" afterPath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/public/javascripts/stressi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://L:/005Prototyypit/002Kalorilaskuri/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1687">
+            <state relative-caret-position="408">
               <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
             </state>
           </provider>
@@ -49,10 +50,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="170">
+              <caret line="184" column="54" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#14534#14540#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,7 +62,7 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
+            <state relative-caret-position="612">
               <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
             </state>
           </provider>
@@ -97,13 +98,7 @@
       </file>
       <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
         <entry file="file://L:/005Prototyypit/002Kalorilaskuri/public/javascripts/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -155,11 +150,120 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="L:/001AngularOhjelmat/001Angular/ng6/node_modules" />
+    <handled-path value="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/node_modules" />
+    <handled-path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules" />
     <handled-path value="L:/005Prototyypit/002Kalorilaskuri/node_modules" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="L:/001AngularOhjelmat/001Angular/ng6/package.json" />
+      <path value="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/accepts/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/argparse/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/array-flatten/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/asap/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/body-parser/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/buffer-writer/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/bytes/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/cfenv/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/commander/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/content-disposition/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/content-type/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/cookie-signature/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/cookie/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/core-js/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/debug/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/depd/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/destroy/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/ee-first/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/encodeurl/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/encoding/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/escape-html/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/esprima/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/etag/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/eventemitter3/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/iconv-lite/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/qs/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/raw-body/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/node_modules/statuses/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/express/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/fbjs/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/finalhandler/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/follow-redirects/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/forwarded/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/fresh/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/http-errors/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/http-post/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/http-proxy/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/iconv-lite/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/inherits/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/ipaddr.js/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/is-stream/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/isomorphic-fetch/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/js-tokens/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/js-yaml/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/loose-envify/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/media-typer/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/merge-descriptors/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/methods/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/mime-db/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/mime-types/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/mime/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/ms/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/negotiator/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/node-fetch/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/object-assign/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/on-finished/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/packet-reader/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/parseurl/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/path-to-regexp/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pg-connection-string/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pg-pool/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pg-types/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pg/node_modules/pg-connection-string/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pg/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/pgpass/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/ports/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/postgres-array/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/postgres-bytea/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/postgres-date/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/postgres-interval/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/promise/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/prop-types/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/proxy-addr/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/qs/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/range-parser/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/raw-body/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/react-dom/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/react/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/requires-port/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/safe-buffer/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/safer-buffer/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/semver/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/send/node_modules/statuses/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/send/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/serve-static/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/setimmediate/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/setprototypeof/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/split/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/sprintf-js/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/statuses/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/through/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/type-is/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/ua-parser-js/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/underscore/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/unpipe/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/utils-merge/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/vary/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/whatwg-fetch/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/node_modules/xtend/package.json" />
+      <path value="L:/002ReactOhjelmat/005Pomo/stressitesti/package.json" />
       <path value="L:/005Prototyypit/002Kalorilaskuri/package.json" />
     </packageJsonPaths>
   </component>
@@ -175,7 +279,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,6 +305,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,28 +371,28 @@
       <workItem from="1538806970650" duration="6736000" />
       <workItem from="1538853690441" duration="14723000" />
       <workItem from="1538981214410" duration="8924000" />
-      <workItem from="1538993265490" duration="24034000" />
+      <workItem from="1538993265490" duration="24637000" />
+      <workItem from="1539179611591" duration="324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67032000" />
+    <option name="totallyTimeSpent" value="67959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26812366" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26545843" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TypeScript" order="8" />
@@ -298,6 +402,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,9 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -482,13 +584,7 @@
       </provider>
     </entry>
     <entry file="file://L:/005Prototyypit/002Kalorilaskuri/public/javascripts/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://L:/005Prototyypit/002Kalorilaskuri/public/javascripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,7 +595,7 @@
     </entry>
     <entry file="file://L:/005Prototyypit/002Kalorilaskuri/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1687">
+        <state relative-caret-position="408">
           <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
@@ -519,17 +615,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="612">
           <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="170">
+          <caret line="184" column="54" selection-start-line="184" selection-start-column="54" selection-end-line="184" selection-end-column="54" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14534#14540#0" expanded="true" />
           </folding>
         </state>
       </provider>
