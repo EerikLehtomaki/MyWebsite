@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://L:/001AngularOhjelmat/001Angular/.idea/001Angular.iml" filepath="L:/001AngularOhjelmat/001Angular/.idea/001Angular.iml" />
-      <module fileurl="file://L:/005Prototyypit/002Kalorilaskuri/.idea/002Kalorilaskuri.iml" filepath="L:/005Prototyypit/002Kalorilaskuri/.idea/002Kalorilaskuri.iml" />
-      <module fileurl="file://L:/002ReactOhjelmat/005Pomo/.idea/005Pomo.iml" filepath="L:/002ReactOhjelmat/005Pomo/.idea/005Pomo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Curriculum.iml" filepath="$PROJECT_DIR$/.idea/Curriculum.iml" />
-      <module fileurl="file://L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/.idea/stressitesti.iml" filepath="L:/002ReactOhjelmat/004StressitestiPuhdas/stressitesti/.idea/stressitesti.iml" />
+      <module fileurl="file://L:/projekteja/FBase/.idea/FBase.iml" filepath="L:/projekteja/FBase/.idea/FBase.iml" />
+      <module fileurl="file://L:/projekteja/FirebaseThumb/.idea/FirebaseThumb.iml" filepath="L:/projekteja/FirebaseThumb/.idea/FirebaseThumb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReduxSimpleStarter/.idea/ReduxSimpleStarter.iml" filepath="$PROJECT_DIR$/../ReduxSimpleStarter/.idea/ReduxSimpleStarter.iml" />
     </modules>
   </component>
 </project>

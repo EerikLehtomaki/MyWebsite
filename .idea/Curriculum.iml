@@ -4,9 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="002Kalorilaskuri" />
-    <orderEntry type="module" module-name="001Angular" />
-    <orderEntry type="module" module-name="005Pomo" />
-    <orderEntry type="module" module-name="stressitesti" />
+    <orderEntry type="module" module-name="ReduxSimpleStarter" />
+    <orderEntry type="module" module-name="FirebaseThumb" />
+    <orderEntry type="module" module-name="FBase" />
   </component>
 </module>
