@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Curriculum.iml" filepath="$PROJECT_DIR$/.idea/Curriculum.iml" />
       <module fileurl="file://L:/projekteja/FBase/.idea/FBase.iml" filepath="L:/projekteja/FBase/.idea/FBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Firebase/.idea/Firebase.iml" filepath="$PROJECT_DIR$/../Firebase/.idea/Firebase.iml" />
       <module fileurl="file://L:/projekteja/FirebaseThumb/.idea/FirebaseThumb.iml" filepath="L:/projekteja/FirebaseThumb/.idea/FirebaseThumb.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ReduxSimpleStarter/.idea/ReduxSimpleStarter.iml" filepath="$PROJECT_DIR$/../ReduxSimpleStarter/.idea/ReduxSimpleStarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reactportfolio/.idea/reactportfolio.iml" filepath="$PROJECT_DIR$/../reactportfolio/.idea/reactportfolio.iml" />
     </modules>
   </component>
 </project>
